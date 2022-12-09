@@ -1,0 +1,174 @@
+/*Font-Family: 'Cardo', Serif;
+Font-Size: 48px;
+Font-Family: 'Libre Franklin', Sans-Serif;
+Font-Size: 14px;*/
+
+.ol-sec{
+    background-color: #EDCC8E;
+    background-image: -webkit-linear-gradient(270deg,rgba(228,181,91,1.00) 0%,rgba(237,204,142,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(228,181,91,1.00) 0%,rgba(237,204,142,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(228,181,91,1.00) 0%,rgba(237,204,142,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(228,181,91,1.00) 0%,rgba(237,204,142,1.00) 100%);
+}
+
+p {
+  Font-Family: 'Libre Franklin', Sans-Serif;
+  Font-Size: 14px;
+}
+.navbar {
+  Font-Family: 'Libre Franklin', Sans-Serif;
+  Font-Size: 14px;
+}
+.nav-item {
+  padding-right: 6px;
+  padding-left: 36px;
+}
+.logo {
+  width: 45px;
+  height: 42px;
+  float: right;
+}
+.m-banner-txt{
+	Font-Family: 'Cardo', Serif;
+	Font-Size: 48px;
+}
+h1 {
+  Font-Family: 'Cardo', Serif;
+  Font-Size: 48px;
+  text-align: center;
+}
+.main-banner {
+    width: 100%;
+    height: 580px;
+    color: #F9F9F9;
+    text-align: center;
+    background-image: -webkit-linear-gradient(270deg,rgba(127,184,235,1.00) 0%,rgba(0,41,255,0.48) 100%), url(../images/Home/city_main.jpg);
+    background-image: -moz-linear-gradient(270deg,rgba(127,184,235,1.00) 0%,rgba(0,41,255,0.48) 100%), url(../images/Home/city_main.jpg);
+    background-image: -o-linear-gradient(270deg,rgba(127,184,235,1.00) 0%,rgba(0,41,255,0.48) 100%), url(../images/Home/city_main.jpg);
+    background-image: linear-gradient(180deg,rgba(127,184,235,1.00) 0%,rgba(0,41,255,0.48) 100%), url(../images/Home/city_main.jpg);
+    border-bottom: medium solid #000000;
+}
+.m-banner-txt {
+  padding-top: 230px;
+}
+.todays-games {
+    Font-Family: 'Cardo', Serif;
+    Font-Size: 30px;
+    color: #9C0002;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-color: #96DB86;
+    width: 40%;
+    height: 30%;
+    padding-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-bottom: 65px;
+}
+.t-games-li {
+	Font-Family: 'Libre Franklin', Sans-Serif;
+	Font-Size: 14px;
+  list-style: none;
+  position: fixed;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+.td-game {
+  padding-top: 25px;
+}
+h2 {
+  Font-Family: 'Cardo', Serif;
+  Font-Size: 48px;
+}
+.phone-img {
+  margin-left: 82px;
+}
+.sec-2 {
+    background-color: #F2EC8D;
+    float: right;
+    padding-right: 26px;
+    margin-right: 35px;
+    text-align: center;
+    padding-left: 26px;
+    border-width: thick;
+    border-style: groove;
+}
+.fan-excited-img {
+    float: right;
+    margin-top: 348px;
+    margin-right: -548px;
+}
+h3 {
+    Font-Family: 'Cardo', Serif;
+    Font-Size: 48px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.sec-3 {
+    text-align: center;
+    background-color: #F2EC8D;
+    padding-top: 9px;
+    margin-top: 177px;
+    float: left;
+    padding-right: auto;
+    padding-left: auto;
+    margin-left: 68px;
+	border-width: thick;
+    border-style: groove;
+}
+.sec-4 {
+    text-align: center;
+    background-color: #F2EC8D;
+	position: absolute;
+    margin-top: 50px;
+    margin-left: 240px;
+    margin-right: 264px;
+    padding-left: 12px;
+    padding-right: 12px;
+	border-width: thick;
+    border-style: groove;
+}
+.casino-img {
+    width: 100%;
+    height: 580px;
+    margin-top: 260px;
+}
+h4 {
+    Font-Family: 'Cardo', Serif;
+    Font-Size: 48px;
+    padding-top: 4px;	
+	 
+}
+.sec-5 {
+    text-align: center;
+    padding-bottom: 116px;
+    margin-top: 424px;
+}
+h5 {
+  Font-Family: 'Cardo', Serif;
+  Font-Size: 48px;
+}
+footer {
+  font-family: "Rival Sans Narrow Thin", "Segoe UI", "Trebuchet MS", Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+  position: fixed;
+  background-image: -webkit-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: -moz-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: -o-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-size: 50px auto;
+  padding-top: 10px;
+  height: 30px;
+  color: #FFFFFF;
+}
